@@ -1,0 +1,13 @@
+# main links
+main:
+  - title: "Program"
+    url: /program/
+
+  - title: "Speakers"
+    url: /speakers/  
+
+  - title: "Committees"
+    url: /committees/ 
+
+  - title: "Submissions"
+    url: /submission/
