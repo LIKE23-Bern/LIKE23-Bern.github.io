@@ -6,6 +6,8 @@ permalink: /committees/
 
 # Scientific Committee (in progress): 
 
+# Scientific Committee (of LIKE22): 
+
   * [Lutz Dümbgen](https://www.imsv.unibe.ch/about_us/staff/prof_dr_duembgen_lutz/index_eng.html) (University of Bern)  
   * [Paolo Favaro](https://www.cvg.unibe.ch/people/favaro) (University of Bern) 
   * [Kenji Fukumizu](https://www.ism.ac.jp/~fukumizu/) (The Institute of Statistical Mathematics)  
