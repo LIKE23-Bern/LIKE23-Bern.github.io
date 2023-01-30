@@ -20,9 +20,6 @@ header:
 
 Schedule to be announced.
 
-***The first day of the event consists in four introductory courses, tackling the basics of their respective topics. The other days of the event are designed to allow invited speakers to present and discuss ongoing research and state of the art results.  
-Most talks are recorded and videos are available on [LIKE22's Switchtube channel](https://tube.switch.ch/channels/jBwZ8w4hJY). You can also access the recorded talks below.***
-
 ### Monday 26th June 2023
 
 <table>
