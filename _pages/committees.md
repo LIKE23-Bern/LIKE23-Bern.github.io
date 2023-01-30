@@ -30,7 +30,7 @@ permalink: /committees/
   * [Christine Thomas-Agnan](https://www.tse-fr.eu/people/christine-thomas-agnan) (Toulouse School of Economics)  
  
   
-# Organizing Committee (in progress): 
+# Organizing Committee (in progress, we currently display the organizing committe of LIKE22): 
 
   * [Lea Friedli](https://www.researchgate.net/profile/Lea-Friedli-2) (University of Lausanne)    
   * [Athénaïs Gautier](https://athenaisgautier.github.io/) (University of Bern)  
