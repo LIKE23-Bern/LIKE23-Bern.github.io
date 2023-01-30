@@ -16,7 +16,7 @@ header:
       url: "https://forms.gle/46WJDGtv5nxwgsjS9"
 ---
 
-LIKE23 is a ***~~winter~~ school and workshop*** that will take place between June 26th to 30th 2023 ***(electronically?)***, with main topics
+LIKE23 is a research school and workshop that will take place between June 26th to 30th 2023, with main topics
 
   *  kernel embeddings from theory to applications,   
 
@@ -24,6 +24,4 @@ LIKE23 is a ***~~winter~~ school and workshop*** that will take place between Ju
 
   *  active learning for accelerated inference. 
 
-***The first day of the event aims at covering basics of the aforementioned topics over four introductory courses. The other days of the event are designed to allow invited speakers to present and discuss ongoing research and state of the art results.*** See the [program](/program) for the complete schedule.
-
-[Registration](foo) ***(free of charge)*** is free but mandatory in order to receive insider's news about the event (including up to date connection information).
+More details will follow soon, including the [program](/program) and the complete schedule.
