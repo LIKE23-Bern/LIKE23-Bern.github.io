@@ -4,9 +4,7 @@ title: ""
 permalink: /committees/
 ---
 
-# Scientific Committee (in progress): 
-
-# Scientific Committee (of LIKE22): 
+# Scientific Committee of LIKE23 (in progress):  
 
   * [Lutz Dümbgen](https://www.imsv.unibe.ch/about_us/staff/prof_dr_duembgen_lutz/index_eng.html) (University of Bern)  
   * [Paolo Favaro](https://www.cvg.unibe.ch/people/favaro) (University of Bern) 
@@ -36,5 +34,5 @@ permalink: /committees/
   * [Athénaïs Gautier](https://athenaisgautier.github.io/) (University of Bern)  
   * [David Ginsbourger](http://www.ginsbourger.ch/) (**Chair**, University of Bern)  
   * [Guillaume Pirot](http://www.cet.edu.au/who-we-are/a-z-staff-profiles/guillaume-pirot) (University of Western Australia)  
-  * [Soham Sarkar](https://sites.google.com/view/sohamsarkar) (EPFL)   
+  * [Soham Sarkar](https://sites.google.com/view/sohamsarkar) (Indian Statistical Institute)   
   * [Cédric Travelletti](https://scholar.google.com/citations?user=zvkbeqYAAAAJ) (University of Bern)      
