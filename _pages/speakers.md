@@ -15,8 +15,9 @@ Current list of speakers (in progress).
   * [Zaid Harchaoui (TBC)](https://faculty.washington.edu/zaid/) (University of Washington)  
   * [James Hensman (TBC)](https://scholar.google.com/citations?user=l8dX3ssAAAAJ&hl=en) (Microsoft Research Cambridge) 
   * [Iain Henderson](https://www.math.insa-toulouse.fr/fr/le-gmm/annuaire_des_enseignants.html) (INSA Toulouse) 
-  * [Henry Moss](https://henrymoss.github.io/) (University of Cambridge)  
   * [Mikolaj Kasprzak](https://www.mikolajkasprzak.com/) (University of Luxembourg) 
+  * [Henry Moss](https://henrymoss.github.io/) (University of Cambridge)  
+  * [Elizaveta Semenova](https://www.elizaveta-semenova.com/) (University of Oxford)
   * [Danica Sutherland](https://djsutherland.ml/) (University of British Columbia)  
   * [Johanna Ziegel](https://www.imsv.unibe.ch/ueber_uns/personen/prof_dr_ziegel_johanna/index_ger.html) (University of Bern)
  
