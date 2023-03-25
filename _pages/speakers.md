@@ -19,6 +19,7 @@ Current list of speakers (in progress).
   * [Mikolaj Kasprzak](https://www.mikolajkasprzak.com/) (University of Luxembourg) 
   * [Henry Moss](https://henrymoss.github.io/) (University of Cambridge)  
   * [Elizaveta Semenova](https://www.elizaveta-semenova.com/) (University of Oxford)
+  * [Tim Sullivan](http://www.tjsullivan.org.uk/) (University of Warwick)  
   * [Danica Sutherland](https://djsutherland.ml/) (University of British Columbia)  
   * [Johanna Ziegel](https://www.imsv.unibe.ch/ueber_uns/personen/prof_dr_ziegel_johanna/index_ger.html) (University of Bern)
  
