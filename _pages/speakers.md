@@ -21,6 +21,7 @@ Current list of speakers (in progress).
   * [Elizaveta Semenova](https://www.elizaveta-semenova.com/) (University of Oxford)
   * [Tim Sullivan](http://www.tjsullivan.org.uk/) (University of Warwick)  
   * [Danica Sutherland](https://djsutherland.ml/) (University of British Columbia)  
+  * [George Wynne](https://georgewynne.github.io/) (University of Bristol) 
   * [Johanna Ziegel](https://www.imsv.unibe.ch/ueber_uns/personen/prof_dr_ziegel_johanna/index_ger.html) (University of Bern)
  
  
