@@ -11,6 +11,7 @@ Current list of speakers (in progress).
   * [Sébastien Da Veiga](https://ensai.fr/en/equipe/da-veiga-sebastien/) (ENSAI)
   * [Andrew Duncan](https://www.ma.imperial.ac.uk/~aduncan/) (Imperial College)
   * [Nicolas Durrande](https://sites.google.com/site/nicolasdurrandehomepage/) (Shiftlab) 
+  * [Sarah Filippi](https://www.imperial.ac.uk/people/s.filippi) (Imperial College)
   * [Jean Carlo Guella](https://jeanguella.wixsite.com/jeanguella) (Unicamp-IMECC)   
   * [Zaid Harchaoui (TBC)](https://faculty.washington.edu/zaid/) (University of Washington)  
   * [James Hensman (TBC)](https://scholar.google.com/citations?user=l8dX3ssAAAAJ&hl=en) (Microsoft Research Cambridge) 
