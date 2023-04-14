@@ -7,6 +7,7 @@ permalink: /speakers/
 
 Current list of speakers (in progress).
 
+  * [Pierre-Cyril Aubin-Frankowski](https://pcaubin.github.io/) (INRIA)
   * [Mickaël Binois](https://sites.google.com/site/mickaelbinoishomepage/) (INRIA) 
   * [Sébastien Da Veiga](https://ensai.fr/en/equipe/da-veiga-sebastien/) (ENSAI)
   * [Andrew Duncan](https://www.ma.imperial.ac.uk/~aduncan/) (Imperial College)
@@ -19,6 +20,8 @@ Current list of speakers (in progress).
   * [Heishiro Kanagawa](https://noukoudashisoup.github.io/) (Newcastle University)
   * [Mikolaj Kasprzak](https://www.mikolajkasprzak.com/) (University of Luxembourg) 
   * [Henry Moss](https://henrymoss.github.io/) (University of Cambridge)  
+  * [Wolfgang Polonik](https://www.stat.ucdavis.edu/~polonik/WP-personal-home.html) (University of California at Davis)
+  * [Bastian Rieck](https://bastian.rieck.me/) (Helmholtz Munich)
   * [Elizaveta Semenova](https://www.elizaveta-semenova.com/) (University of Oxford)
   * [Tim Sullivan](http://www.tjsullivan.org.uk/) (University of Warwick)  
   * [Danica Sutherland](https://djsutherland.ml/) (University of British Columbia)  
