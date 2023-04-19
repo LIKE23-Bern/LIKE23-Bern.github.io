@@ -1,6 +1,8 @@
 ---
 permalink: /
 title: "Lifting Inference with Kernel Embeddings"
+seo_title: "LIKE23 or LIKE 23 main page"
+seo_description: "Main page of Lifting Inference with Kernel Embeddings event, also called like 23 and LIKE 23 ! LIKE23 is a research school and workshop that will take place in Bern and with main topic kernel embeddings, Gaussian Process modelling, active learning for accelerated inference. Main organizer: David Ginsbourger"
 excerpt: "June 26 to 30, 2023"
 layout: splash
 classes: wide
