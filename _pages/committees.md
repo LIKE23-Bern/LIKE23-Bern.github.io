@@ -33,6 +33,6 @@ permalink: /committees/
   * [Lea Friedli](https://www.researchgate.net/profile/Lea-Friedli-2) (University of Lausanne)    
   * [Athénaïs Gautier](https://athenaisgautier.github.io/) (University of Bern)  
   * [David Ginsbourger](http://www.ginsbourger.ch/) (**Chair**, University of Bern)  
-  * [Guillaume Pirot](http://www.cet.edu.au/who-we-are/a-z-staff-profiles/guillaume-pirot) (University of Western Australia)  
+  * [Guillaume Pirot](https://www.cet.edu.au/personnel/guillaume-pirot/) (University of Western Australia)  
   * [Soham Sarkar](https://sites.google.com/view/sohamsarkar) (Indian Statistical Institute)   
   * [Cédric Travelletti](https://scholar.google.com/citations?user=zvkbeqYAAAAJ) (University of Bern)      
