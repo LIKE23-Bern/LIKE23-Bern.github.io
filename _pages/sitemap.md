@@ -4,6 +4,7 @@ title: "Sitemap"
 permalink: /sitemap/
 author_profile: false
 ---
+<meta name="robots" content="noindex, nofollow">
 
 {% include base_path %}
 
