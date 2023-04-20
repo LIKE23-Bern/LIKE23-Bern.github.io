@@ -8,7 +8,7 @@ permalink: /submission/
 
 # Call for submission of contributed videos
 
-LIKE22 calls for short contributions by early-career researchers (at both graduate student and postdoc levels) in form of short videos.
+LIKE23 calls for short contributions by early-career researchers (at both graduate student and postdoc levels) in form of short videos.
 
 Contributed video presentations of maximum 5 minutes should be submitted in **MP4** or **MOV** format to [https://cmt3.research.microsoft.com/LIKE2023/](https://cmt3.research.microsoft.com/LIKE2023/) until **June 2nd 2023 23:59 anytime on earth**.  
 
