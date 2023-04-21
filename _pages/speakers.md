@@ -17,6 +17,7 @@ Current list of speakers (in progress).
   * [James Hensman (TBC)](https://scholar.google.com/citations?user=l8dX3ssAAAAJ&hl=en) (Microsoft Research Cambridge) 
   * [Iain Henderson](https://iain-pl-henderson.github.io/i-henders/about) (INSA Toulouse) 
   * [Heishiro Kanagawa](https://noukoudashisoup.github.io/) (Newcastle University)
+  * [Ti John](http://www.infinitecuriosity.org/about/) (Aalto University)
   * [Mikolaj Kasprzak](https://www.mikolajkasprzak.com/) (University of Luxembourg) 
   * [Henry Moss](https://henrymoss.github.io/) (University of Cambridge)  
   * [Wolfgang Polonik](https://www.stat.ucdavis.edu/~polonik/WP-personal-home.html) (University of California at Davis)
