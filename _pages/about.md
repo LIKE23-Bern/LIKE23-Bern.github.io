@@ -14,8 +14,8 @@ header:
   caption: "Photo credit: [*Andreas Fischinger*](https://unsplash.com/photos/xosBoKRT0qE)"
   overlay_filter: 0.5
   actions:
-    - label: "Registration"
-      url: "https://forms.gle/46WJDGtv5nxwgsjS9"
+    - label: "Registration to the LIKE23 Community"
+      url: "https://forms.office.com/pages/responsepage.aspx?id=ejgA1C8h6kOsf3eqEteXfuRp-VEk3TFJiUkC3XfxN35UNkhaOVFHTFNBVkMyTkFBVE9RTjZLTzRYUC4u"
 ---
 
 LIKE23 is a research school and workshop that will take place between June 26th to 30th 2023, with main topics
