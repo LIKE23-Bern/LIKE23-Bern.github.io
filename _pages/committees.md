@@ -30,9 +30,11 @@ permalink: /committees/
   
 # Organizing Committee (in progress, we currently display the organizing committe of LIKE22): 
 
+  * [Thomas Blümli](https://www.imsv.unibe.ch/ueber_uns/personen/bluemli_thomas/index_ger.html) (University of Bern)  
+  * [Antoine Faul](https://www.imsv.unibe.ch/about_us/staff/faul_antoine_lo/index_eng.html) (University of Bern)  
   * [Lea Friedli](https://www.researchgate.net/profile/Lea-Friedli-2) (University of Lausanne)    
   * [Athénaïs Gautier](https://athenaisgautier.github.io/) (University of Bern)  
   * [David Ginsbourger](http://www.ginsbourger.ch/) (**Chair**, University of Bern)  
-  * [Guillaume Pirot](https://www.cet.edu.au/personnel/guillaume-pirot/) (University of Western Australia)  
-  * [Soham Sarkar](https://sites.google.com/view/sohamsarkar) (Indian Statistical Institute)   
+  * [Lorenz Hilfiker](https://www.imsv.unibe.ch/about_us/staff/dr_hilfiker_lorenz_damian/index_eng.html) (University of Bern)  
+  * [Guillaume Pirot](https://www.cet.edu.au/personnel/guillaume-pirot/) (University of Western Australia)     
   * [Cédric Travelletti](https://scholar.google.com/citations?user=zvkbeqYAAAAJ) (University of Bern)      
