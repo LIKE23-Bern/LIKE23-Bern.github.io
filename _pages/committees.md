@@ -30,6 +30,7 @@ permalink: /committees/
   
 # Organizing Committee (in progress, we currently display the organizing committe of LIKE22): 
 
+  * [Sam Allen](https://www.imsv.unibe.ch/about_us/staff/dr_allen_sam/index_eng.html) (University of Bern)
   * [Thomas Blümli](https://www.imsv.unibe.ch/ueber_uns/personen/bluemli_thomas/index_ger.html) (University of Bern)  
   * [Antoine Faul](https://www.imsv.unibe.ch/about_us/staff/faul_antoine_lo/index_eng.html) (University of Bern)  
   * [Lea Friedli](https://www.researchgate.net/profile/Lea-Friedli-2) (University of Lausanne)    
