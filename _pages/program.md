@@ -13,8 +13,6 @@ header:
 
 # Schedule 
 
-The two first days of the event are designed to allow invited speakers to present and discuss ongoing research and state of the art results.  
-
 ## Monday 26th June 2023  
 
 <table>
@@ -77,7 +75,7 @@ The two first days of the event are designed to allow invited speakers to presen
 <td> contributed videos </td>
 <td> </td>
 </tbody>
-</table>
+</table>  
 
 
 ## Tuesday 27th June 2023  
