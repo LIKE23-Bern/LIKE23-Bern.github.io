@@ -11,9 +11,9 @@ header:
   overlay_filter: 0.5
   actions:
     - label: "First day"
-      url: "foo"
+      url: "/#monday-26th-june-2023"
     - label: "Second day"
-      url: "bar"
+      url: "/#tuesday-27th-june-2023"
    
 ---
 
@@ -51,6 +51,40 @@ header:
 	</tr>
     <tr>
 		<td> 11:45-12:15'ish </td>
+		<td> 
+		    contributed videos 
+		</td>
+		<td> 
+	    </td>
+	</tr>
+    <tr>
+		<td> 13:30-14:45 </td>
+		<td> 
+		    <a href="https://djsutherland.ml/" target="_blank">Danica Sutherland</a> 
+		</td>
+		<td> 
+		   Title TBA
+	    </td>
+	</tr>
+    <tr>
+		<td> 14:45-15:30 </td>
+		<td> 
+		    <a href="https://georgewynne.github.io/" target="_blank"> George Wynne</a> 
+		</td>
+		<td> 
+				   Title TBA
+	    </td>
+	</tr>
+    <tr>
+		<td> 16:00-16:45 </td>
+		<td> 
+		    <a href="https://sites.google.com/site/mickaelbinoishomepage/" target="_blank">Mickaël Binois</a> 
+		</td>
+		<td> Kernels for high-dimensional Gaussian process modeling
+	    </td>
+	</tr>
+    <tr>
+		<td> 16:45-17:15'ish </td>
 		<td> 
 		    contributed videos 
 		</td>
