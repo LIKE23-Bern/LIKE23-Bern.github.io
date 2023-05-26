@@ -9,11 +9,6 @@ header:
   overlay_image: /assets/images/unsplash2_1.jpg
   caption: "Photo credit: [*Andreas Fischinger*](https://unsplash.com/photos/xosBoKRT0qE)"
   overlay_filter: 0.5
-  actions:
-    - label: "First day"
-      url: "/program/#monday-26th-june-2023"
-    - label: "Second day"
-      url: "/program/#tuesday-27th-june-2023"
 ---
 
 # Schedule 
