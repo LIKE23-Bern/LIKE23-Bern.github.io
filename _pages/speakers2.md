@@ -1,5 +1,6 @@
 ---
 layout: splash
+classes: wide
 title: ""
 description: "LIKE23's speakers"
 permalink: /speakers2/
