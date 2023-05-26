@@ -20,7 +20,7 @@ header:
 
 The two first days of the event are designed to allow invited speakers to present and discuss ongoing research and state of the art results.  
 
-### Monday 26th June 2023  
+## Monday 26th June 2023  
 
 <table>
 	<thead>
@@ -113,12 +113,10 @@ The two first days of the event are designed to allow invited speakers to presen
 				contributed videos
 			</td>
 			<td> 
-			</td>
-	</tbody>
-</table>
+			</td></tbody></table>
 
 
-### Tuesday 27th June 2023  
+## Tuesday 27th June 2023  
 
 <table>
 	<thead>
@@ -211,7 +209,5 @@ The two first days of the event are designed to allow invited speakers to presen
 			<td> 
 				Title TBA 
 			</td>
-		</tr>
-	</tbody>
-</table>
+		</tr></tbody></table>
 
