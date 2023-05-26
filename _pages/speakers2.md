@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 title: ""
 description: "LIKE23's speakers"
 permalink: /speakers2/
