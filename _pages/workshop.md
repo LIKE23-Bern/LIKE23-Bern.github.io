@@ -11,11 +11,11 @@ header:
   overlay_filter: 0.5
   actions:
     - label: "Third day"
-      url: "/program/#wednesday-28th-june-2023"
+      url: "/program_workshop/#wednesday-28th-june-2023"
     - label: "Fourth day"
-      url: "/program/#thursday-29th-june-2023"
+      url: "/program_workshop/#thursday-29th-june-2023"
     - label: "Fifth day"
-      url: "/program/#friday-30th-june-2023"
+      url: "/program_workshop/#friday-30th-june-2023"
    
 ---
 
