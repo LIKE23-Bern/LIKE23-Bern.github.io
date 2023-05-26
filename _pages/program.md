@@ -115,7 +115,5 @@ The two first days of the event are designed to allow invited speakers to presen
 			</td>
 			<td> 
 				<br />
-			</td>
-	</tbody>
-</table>
+			</td></tbody></table>
 
