@@ -11,9 +11,9 @@ header:
   overlay_filter: 0.5
   actions:
     - label: "First day"
-      url: "/#monday-26th-june-2023"
+      url: "/program/#monday-26th-june-2023"
     - label: "Second day"
-      url: "/#tuesday-27th-june-2023"
+      url: "/program/#tuesday-27th-june-2023"
    
 ---
 
