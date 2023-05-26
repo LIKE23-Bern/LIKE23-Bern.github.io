@@ -72,7 +72,7 @@ header:
 		    <a href="https://georgewynne.github.io/" target="_blank"> George Wynne</a> 
 		</td>
 		<td> 
-				   Title TBA
+		    Title TBA
 	    </td>
 	</tr>
     <tr>
@@ -130,6 +130,40 @@ header:
 		    contributed videos 
 		</td>
 		<td> 
+	    </td>
+	</tr><tr>
+		<td> 13:30-14:45 </td>
+		<td> 
+		    <a href="https://ensai.fr/en/equipe/da-veiga-sebastien/" target="_blank"> Sebastien Da Veiga </a> 
+		</td>
+		<td> 
+		   Title TBA
+	    </td>
+	</tr>
+    <tr>
+		<td> 14:45-15:15'ish </td>
+		<td> 
+		    contributed videos 
+		</td>
+		<td> 
+	    </td>
+	</tr>
+    <tr>
+		<td> 16:00-16:45 </td>
+		<td> 
+		    <a href="https://sites.google.com/site/nicolasdurrandehomepage/" target="_blank"> Nicolas Durrande </a> 
+		</td>
+		<td> 
+		    Gaussian Process Ensembles and the Bayesian Committee Machine (TBC)
+	    </td>
+	</tr>
+    <tr>
+		<td> 16:45-17:30 </td>
+		<td> 
+		    <a href="https://vab.im/" target="_blank">Viacheslav Borovitskiy</a>
+		</td>
+		<td>
+	        Title TBA
 	    </td>
 	</tr>
 </tbody>
