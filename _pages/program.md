@@ -119,6 +119,3 @@ The two first days of the event are designed to allow invited speakers to presen
 	</tbody>
 </table>
 
-
-### Tuesday 27th June 2023  
-
