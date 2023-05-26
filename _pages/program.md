@@ -13,7 +13,7 @@ header:
 
 # Schedule 
 
-## Monday 26th June 2023  
+Monday 26th June 2023  
 
 <table>
 <thead>
@@ -78,7 +78,7 @@ header:
 </table>  
 
 
-## Tuesday 27th June 2023  
+Tuesday 27th June 2023  
 
 <table>
 <thead>
