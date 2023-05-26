@@ -49,6 +49,14 @@ header:
 		   Title TBA
 	    </td>
 	</tr>
+    <tr>
+		<td> 11:45-12:15'ish </td>
+		<td> 
+		    contributed videos 
+		</td>
+		<td> 
+	    </td>
+	</tr>
 </tbody>
 </table>
 
@@ -81,6 +89,14 @@ header:
 		<td> 
 		  Title TBA
 		</td>
+	</tr>
+	<tr>
+		<td> 11:30-12:00'ish </td>
+		<td> 
+		    contributed videos 
+		</td>
+		<td> 
+	    </td>
 	</tr>
 </tbody>
 </table>
