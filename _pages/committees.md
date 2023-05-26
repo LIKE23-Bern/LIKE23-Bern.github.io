@@ -4,7 +4,7 @@ title: ""
 permalink: /committees/
 ---
 
-# Scientific Committee of LIKE23 (in progress):  
+# Scientific Committee of LIKE23:  
 
   * [Lutz Dümbgen](https://www.imsv.unibe.ch/about_us/staff/prof_dr_duembgen_lutz/index_eng.html) (University of Bern)  
   * [Paolo Favaro](https://www.cvg.unibe.ch/people/favaro) (University of Bern) 
@@ -28,7 +28,7 @@ permalink: /committees/
   * [Christine Thomas-Agnan](https://www.tse-fr.eu/people/christine-thomas-agnan) (Toulouse School of Economics)  
  
   
-# Organizing Committee (in progress, we currently display the organizing committe of LIKE22): 
+# Organizing Committee: 
 
   * [Sam Allen](https://www.imsv.unibe.ch/about_us/staff/dr_allen_sam/index_eng.html) (University of Bern)
   * [Thomas Blümli](https://www.imsv.unibe.ch/ueber_uns/personen/bluemli_thomas/index_ger.html) (University of Bern)  
