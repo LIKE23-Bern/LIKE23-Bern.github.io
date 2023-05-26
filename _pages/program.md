@@ -18,8 +18,9 @@ header:
 
 # Schedule 
 
-### Monday 26th June 2023  
+The two first days of the event are designed to allow invited speakers to present and discuss ongoing research and state of the art results.  
 
+### Monday 26th June 2023  
 
 <table>
 	<thead>
@@ -120,7 +121,6 @@ header:
 
 
 ### Tuesday 27th June 2023  
-
 
 <table>
 	<thead>
