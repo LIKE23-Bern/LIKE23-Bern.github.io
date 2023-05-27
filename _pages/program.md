@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Program of the workshop"
+title: "Program of the research school"
 description: "LIKE23's schedule"
 excerpt:  "See the schedule of:"
 permalink: /program/
