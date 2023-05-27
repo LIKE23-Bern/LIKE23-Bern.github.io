@@ -109,6 +109,7 @@ header:
 	<tr>
 		<td> 09:00-10:15  </td>
 		<td> 
+        <a href="https://sethrf.com/" target="_blank">Seth Flaxman</a> and 
 		    <a href="https://www.elizaveta-semenova.com/" target="_blank">Elizaveta Semenova</a>
 		</td>
 		<td> 
