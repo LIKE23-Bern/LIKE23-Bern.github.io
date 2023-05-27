@@ -159,9 +159,10 @@ header:
 	    </td>
 	</tr>
     <tr>
-		<td> 16:45-17:30 </td>
+		<td> 16:45-17:45 </td>
 		<td> 
 		    <a href="https://vab.im/" target="_blank">Viacheslav Borovitskiy</a>
+      and <a href="https://avt.im/" target="_blank">Alexander Terenin</a>
 		</td>
 		<td>
 	        Title TBA
