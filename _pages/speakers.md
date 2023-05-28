@@ -23,6 +23,8 @@ permalink: /speakers/
   * [Henry Moss](https://henrymoss.github.io/) (University of Cambridge)  
   * [Wolfgang Polonik](https://www.stat.ucdavis.edu/~polonik/WP-personal-home.html) (University of California at Davis)
   * [Bastian Rieck](https://bastian.rieck.me/) (Helmholtz Munich)
+  * [Olivier Roustant](https://olivier-roustant.fr/) (INSA Toulouse)
+  * [Zoltan Szabo](https://www.lse.ac.uk/statistics/people/zoltan-szabo) (London School of Economics)
   * [Elizaveta Semenova](https://www.elizaveta-semenova.com/) (University of Oxford)
   * [Tim Sullivan](http://www.tjsullivan.org.uk/) (University of Warwick)  
   * [Danica Sutherland](https://djsutherland.ml/) (University of British Columbia)  
