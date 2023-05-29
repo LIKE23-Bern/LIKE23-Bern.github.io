@@ -37,7 +37,7 @@ header:
 		    <a href="https://scholar.google.com/citations?user=l8dX3ssAAAAJ&hl=en" target="_blank">James Hensman</a>
 		</td>
 		<td> 
-		    Title TBA
+		    Two tales of orthogonality
 		</td>
 	</tr>
 	<tr>
@@ -46,7 +46,7 @@ header:
 		    <a href="https://www.imperial.ac.uk/people/s.filippi" target="_blank">Sarah Filippi</a> 
 		</td>
 		<td> 
-		   Title TBA
+		   TBA
 	    </td>
 	</tr>
     <tr>
@@ -63,7 +63,7 @@ header:
 		    <a href="https://djsutherland.ml/" target="_blank">Danica Sutherland</a> 
 		</td>
 		<td> 
-		   Title TBA
+		   (Deep) Kernel Mean Embeddings for Representing and Learning On Distributions
 	    </td>
 	</tr>
     <tr>
@@ -72,7 +72,7 @@ header:
 		    <a href="https://georgewynne.github.io/" target="_blank"> George Wynne</a> 
 		</td>
 		<td> 
-		    Title TBA
+		    TBA
 	    </td>
 	</tr>
     <tr>
@@ -113,7 +113,7 @@ header:
 		    <a href="https://www.elizaveta-semenova.com/" target="_blank">Elizaveta Semenova</a>
 		</td>
 		<td> 
-		    Title TBA
+		    TBA
 		</td>
 	</tr>
     <tr>
@@ -122,7 +122,7 @@ header:
 		    <a href="https://henrymoss.github.io/" target="_blank"> Henry Moss </a>
 		</td>
 		<td> 
-		  Title TBA
+		  TBA
 		</td>
 	</tr>
 	<tr>
@@ -138,7 +138,7 @@ header:
 		    <a href="https://ensai.fr/en/equipe/da-veiga-sebastien/" target="_blank"> Sebastien Da Veiga </a> 
 		</td>
 		<td> 
-		   Title TBA
+		   TBA
 	    </td>
 	</tr>
     <tr>
@@ -165,7 +165,7 @@ header:
       and <a href="https://avt.im/" target="_blank">Alexander Terenin</a>
 		</td>
 		<td>
-	        Title TBA
+	        TBA
 	    </td>
 	</tr>
 </tbody>
