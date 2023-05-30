@@ -216,7 +216,7 @@ header:
 		    <a href="https://georgewynne.github.io/" target="_blank">George Wynne</a> 
 		</td>
 		<td> 
-		   Title TBA
+		   Bayes Hilbert Spaces for Posterior Approximation
 	    </td>
 	</tr>
     <tr>
@@ -225,7 +225,7 @@ header:
 		    <a href="https://djsutherland.ml/" target="_blank">Danica Sutherland</a>
 		</td>
 		<td> 
-		    Title TBA
+		    Conditional Independence Regularizers with Kernel Embeddings
 	    </td>
 	</tr>
 </tbody>
