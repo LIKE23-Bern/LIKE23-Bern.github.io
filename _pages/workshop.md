@@ -75,7 +75,7 @@ header:
     <tr>
 		<td> 14:00-14:45 </td>
 		<td> 
-		    <a href="https://sites.google.com/site/boumedienehamzi/" target="_blank">Boumedienne Hamzi </a> 
+		    <a href="https://sites.google.com/site/boumedienehamzi/" target="_blank">Boumediene Hamzi </a> 
 		</td>
 		<td> 
 		   Title TBA
