@@ -41,7 +41,7 @@ header:
 		</td>
 	</tr>
 	<tr>
-		<td> 11:00-10:45 </td>
+		<td> 11:00-11:45 </td>
 		<td> 
 		    <a href="https://www.imperial.ac.uk/people/s.filippi" target="_blank">Sarah Filippi</a> 
 		</td>
