@@ -18,7 +18,7 @@ header:
       url: "https://forms.office.com/pages/responsepage.aspx?id=ejgA1C8h6kOsf3eqEteXfuRp-VEk3TFJiUkC3XfxN35UNkhaOVFHTFNBVkMyTkFBVE9RTjZLTzRYUC4u"
 ---
 
-LIKE23 is a research school and workshop that will take place between June 26th to 30th 2023, with main topics
+LIKE23 is a research school and workshop that will take place between June 26th and 30th 2023, with main topics
 
   *  kernel embeddings from theory to applications,   
 
