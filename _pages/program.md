@@ -72,7 +72,7 @@ header:
 		    <a href="https://georgewynne.github.io/" target="_blank"> George Wynne</a> 
 		</td>
 		<td> 
-		    TBA
+		    Kernel mean embeddings meets functional data analysis
 	    </td>
 	</tr>
     <tr>
