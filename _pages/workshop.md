@@ -199,7 +199,7 @@ header:
 		    <a href="https://pcaubin.github.io/" target="_blank">Pierre-Cyril Aubin-Frankowski</a> 
 		</td>
 		<td> 
-		   Title Kernels and optimization: Hilbert vs tropical, kernel Sum-of-Squares, optimal control, c-concavity and representer theorems
+		   Kernels and optimization: Hilbert vs tropical, kernel Sum-of-Squares, optimal control, c-concavity and representer theorems
 	    </td>
 	</tr>
 	<tr>
