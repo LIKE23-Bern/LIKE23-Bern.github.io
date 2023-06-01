@@ -73,15 +73,6 @@ header:
 	    </td>
 	</tr>
     <tr>
-		<td> 14:00-14:45 </td>
-		<td> 
-		    <a href="https://sites.google.com/site/boumedienehamzi/" target="_blank">Boumediene Hamzi </a> 
-		</td>
-		<td> 
-		   Title TBA
-	    </td>
-	</tr>
-    <tr>
 		<td> 14:45-15:30 </td>
 		<td> 
 		    <a href="https://sites.google.com/view/darioazzimonti/home" target="_blank">Dario Azzimonti</a> 
@@ -208,7 +199,7 @@ header:
 		    <a href="https://pcaubin.github.io/" target="_blank">Pierre-Cyril Aubin-Frankowski</a> 
 		</td>
 		<td> 
-		   Title TBA
+		   Title Kernels and optimization: Hilbert vs tropical, kernel Sum-of-Squares, optimal control, c-concavity and representer theorems
 	    </td>
 	</tr>
 	<tr>
