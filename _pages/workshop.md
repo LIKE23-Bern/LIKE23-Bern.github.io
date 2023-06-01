@@ -60,7 +60,7 @@ header:
 		    <a href="https://olivier-roustant.fr/" target="_blank">Olivier Roustant</a> 
 		</td>
 		<td> 
-		   Title TBA
+    High-dimensional additive Gaussian process under monotonicity constraints
 	    </td>
 	</tr>
     <tr>
