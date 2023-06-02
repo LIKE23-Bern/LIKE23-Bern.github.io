@@ -113,7 +113,7 @@ header:
 		    <a href="https://www.elizaveta-semenova.com/" target="_blank">Elizaveta Semenova</a>
 		</td>
 		<td> 
-		    TBA
+		    Emulating and aggregating GPs with PriorVAE and πVAE: deep generative models to enable scalable MCMC inference and define a novel stochastic process
 		</td>
 	</tr>
     <tr>
