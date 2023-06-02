@@ -46,7 +46,7 @@ header:
 		    <a href="https://www.imperial.ac.uk/people/s.filippi" target="_blank">Sarah Filippi</a> 
 		</td>
 		<td> 
-		   TBA
+		   Bayesian Nonparametric Mixture Model: an application to pharmaceutical manufacturing
 	    </td>
 	</tr>
     <tr>
