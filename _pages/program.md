@@ -155,7 +155,7 @@ header:
 		    <a href="https://sites.google.com/site/nicolasdurrandehomepage/" target="_blank"> Nicolas Durrande </a> 
 		</td>
 		<td> 
-		    Gaussian Process Ensembles and the Bayesian Committee Machine (TBC)
+		    Gaussian Process Ensembles and the Bayesian Committee Machine 
 	    </td>
 	</tr>
     <tr>
@@ -165,7 +165,7 @@ header:
       and <a href="https://avt.im/" target="_blank">Alexander Terenin</a>
 		</td>
 		<td>
-	        TBA
+	        Geometric Gaussian Processes
 	    </td>
 	</tr>
 </tbody>
