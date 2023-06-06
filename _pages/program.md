@@ -18,7 +18,7 @@ header:
 ---
 <style>
 	.coffee-break {
-		background-color: #c5dbe0;
+		background-color: #ccdde0;
 	}
 </style>
 
