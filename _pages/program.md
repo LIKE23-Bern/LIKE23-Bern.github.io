@@ -150,6 +150,14 @@ header:
 		    Emulating and aggregating GPs with PriorVAE and πVAE: deep generative models to enable scalable MCMC inference and define a novel stochastic process
 		</td>
 	</tr>
+  <tr class="coffee-break">
+		<td> 10:15-10:45  </td>
+		<td> 
+		    Coffee break
+		</td>
+		<td> 
+		</td>
+	</tr>
     <tr>
 		<td> 10:45-11:30  </td>
 		<td> 
@@ -166,7 +174,16 @@ header:
 		</td>
 		<td> 
 	    </td>
-	</tr><tr>
+	</tr>
+  <tr class="coffee-break">
+		<td> 12:00-13:30  </td>
+		<td> 
+		    Lunch break
+		</td>
+		<td> 
+		</td>
+	</tr>
+  <tr>
 		<td> 13:30-14:45 </td>
 		<td> 
 		    <a href="https://ensai.fr/en/equipe/da-veiga-sebastien/" target="_blank"> Sebastien Da Veiga </a> 
@@ -182,6 +199,14 @@ header:
 		</td>
 		<td> 
 	    </td>
+	</tr>
+  <tr class="coffee-break">
+		<td> 15:15-16:00  </td>
+		<td> 
+		    Coffee break
+		</td>
+		<td> 
+		</td>
 	</tr>
     <tr>
 		<td> 16:00-16:45 </td>
@@ -235,6 +260,14 @@ header:
 		   Title TBA
 	    </td>
 	</tr>
+  <tr class="coffee-break">
+		<td> 10:30-11:00  </td>
+		<td> 
+		    Coffee break
+		</td>
+		<td> 
+		</td>
+	</tr>
 	<tr>
 		<td> 11:00-11:45 </td>
 		<td> 
@@ -253,6 +286,14 @@ header:
 		    Title TBA
 	    </td>
 	</tr>
+  <tr class="coffee-break">
+		<td> 12:30-14:45  </td>
+		<td> 
+		    Coffee break
+		</td>
+		<td> 
+		</td>
+	</tr>
     <tr>
 		<td> 14:45-15:30 </td>
 		<td> 
@@ -261,6 +302,14 @@ header:
 		<td> 
 		    Title TBA
 	    </td>
+	</tr>
+  <tr class="coffee-break">
+		<td> 15:30-16:00  </td>
+		<td> 
+		    Coffee break
+		</td>
+		<td> 
+		</td>
 	</tr>
     <tr>
 		<td> 16:00-16:45 </td>
@@ -305,6 +354,14 @@ header:
 		    Title TBA
 		</td>
 	</tr>
+  <tr class="coffee-break">
+		<td> 10:00-10:30  </td>
+		<td> 
+		    Coffee break
+		</td>
+		<td> 
+		</td>
+	</tr>
 	<tr>
 		<td> 10:30-11:15 </td>
 		<td> 
@@ -323,6 +380,14 @@ header:
 		  A Primer on Multi-Scale Topological Kernels
 	    </td>
 	</tr>
+  <tr class="coffee-break">
+		<td> 12:00-13:15  </td>
+		<td> 
+		    Coffee break
+		</td>
+		<td> 
+		</td>
+	</tr>
     <tr>
 		<td> 13:15-14:00 </td>
 		<td> 
@@ -340,6 +405,14 @@ header:
 		<td> 
 		   Title TBA
 	    </td>
+	</tr>
+  <tr class="coffee-break">
+		<td> 14:45-15:15  </td>
+		<td> 
+		    Coffee break
+		</td>
+		<td> 
+		</td>
 	</tr>
     <tr>
 		<td> 15:15-16:00</td>
@@ -382,6 +455,14 @@ header:
 		<td> 
 		   Kernels and optimization: Hilbert vs tropical, kernel Sum-of-Squares, optimal control, c-concavity and representer theorems
 	    </td>
+	</tr>
+  <tr class="coffee-break">
+		<td> 10:30-11:00  </td>
+		<td> 
+		    Coffee break
+		</td>
+		<td> 
+		</td>
 	</tr>
 	<tr>
 		<td> 11:00-11:45 </td>
