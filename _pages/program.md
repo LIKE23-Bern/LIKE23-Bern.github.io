@@ -72,6 +72,14 @@ The workshop's (on invitation only) program can be found [here](/program_worksho
 		<td> 
 	    </td>
 	</tr>
+  <tr class="coffee-break">
+		<td> 12:15-13:30  </td>
+		<td> 
+		    Lunch break
+		</td>
+		<td> 
+		</td>
+	</tr>
     <tr>
 		<td> 13:30-14:45 </td>
 		<td> 
@@ -89,6 +97,14 @@ The workshop's (on invitation only) program can be found [here](/program_worksho
 		<td> 
 		    Kernel mean embeddings meets functional data analysis
 	    </td>
+	</tr>
+  <tr class="coffee-break">
+		<td> 15:30-16:00  </td>
+		<td> 
+		    Coffee break
+		</td>
+		<td> 
+		</td>
 	</tr>
     <tr>
 		<td> 16:00-16:45 </td>
