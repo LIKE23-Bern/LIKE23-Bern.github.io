@@ -16,6 +16,11 @@ header:
       url: "/program/#tuesday-27th-june-2023"
    
 ---
+<style>
+	.coffee-break {
+		background-color: #93ccd9;
+	}
+</style>
 
 # Schedule 
 
@@ -40,6 +45,14 @@ The workshop's (on invitation only) program can be found [here](/program_worksho
 		</td>
 		<td> 
 		    Two tales of orthogonality
+		</td>
+	</tr>
+  <tr class="coffee-break">
+		<td> 10:30-11:00  </td>
+		<td> 
+		    Coffee break
+		</td>
+		<td> 
 		</td>
 	</tr>
 	<tr>
