@@ -24,6 +24,7 @@ header:
 
 # Schedule 
 
+You can find below the program for the workshop event (on invitation only) of LIKE23. The conference's program can be found [here](program).
 
 ### Wednesday 28th June 2023
 
