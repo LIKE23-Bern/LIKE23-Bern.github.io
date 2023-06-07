@@ -164,7 +164,7 @@ header:
 		    <a href="https://henrymoss.github.io/" target="_blank"> Henry Moss </a>
 		</td>
 		<td> 
-		  TBA
+		  Scalable Gaussian Processes when you don't just care about Regression
 		</td>
 	</tr>
 	<tr>
