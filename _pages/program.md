@@ -317,7 +317,7 @@ header:
 		    <a href="https://noukoudashisoup.github.io/" target="_blank">Heishiro Kanagawa</a> 
 		</td>
 		<td> 
-		    Title TBA
+		    Controlling moments with kernel Stein discrepancies
 	    </td>
 	</tr>
     <tr>
