@@ -168,9 +168,9 @@ header:
 		</td>
 	</tr>
 	<tr>
-		<td> 11:30-12:00'ish </td>
+		<td> 11:30-12:00 </td>
 		<td> 
-		    contributed videos 
+		    Short talk (TBA)
 		</td>
 		<td> 
 	    </td>
@@ -193,9 +193,9 @@ header:
 	    </td>
 	</tr>
     <tr>
-		<td> 14:45-15:15'ish </td>
+		<td> 14:45-15:15 </td>
 		<td> 
-		    contributed videos 
+		   Discussions 
 		</td>
 		<td> 
 	    </td>
