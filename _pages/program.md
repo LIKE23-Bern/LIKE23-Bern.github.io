@@ -70,7 +70,7 @@ header:
     <tr>
 		<td> 11:45-12:15'ish </td>
 		<td> 
-		    contributed videos 
+		    Short talk (TBA)
 		</td>
 		<td> 
 	    </td>
