@@ -84,7 +84,7 @@ header:
 		</td>
 	</tr>
     <tr>
-		<td> 13:30-14:45 </td>
+		<td> 13:45-15:00 </td>
 		<td> 
 		    <a href="https://djsutherland.ml/" target="_blank">Danica Sutherland</a> 
 		</td>
@@ -93,7 +93,7 @@ header:
 	    </td>
 	</tr>
     <tr>
-		<td> 14:45-15:30 </td>
+		<td> 15:00-15:45 </td>
 		<td> 
 		    <a href="https://georgewynne.github.io/" target="_blank"> George Wynne</a> 
 		</td>
@@ -102,7 +102,7 @@ header:
 	    </td>
 	</tr>
   <tr class="coffee-break">
-		<td> 15:30-16:00  </td>
+		<td> 15:45-16:15  </td>
 		<td> 
 		    Coffee break
 		</td>
@@ -110,7 +110,7 @@ header:
 		</td>
 	</tr>
     <tr>
-		<td> 16:00-16:45 </td>
+		<td> 16:15-17:00 </td>
 		<td> 
 		    <a href="https://sites.google.com/site/mickaelbinoishomepage/" target="_blank">Mickaël Binois</a> 
 		</td>
@@ -118,9 +118,9 @@ header:
 	    </td>
 	</tr>
     <tr>
-		<td> 16:45-17:15'ish </td>
+		<td> 17:00-17:30 </td>
 		<td> 
-		    contributed videos 
+		    Discussions 
 		</td>
 		<td> 
 	    </td>
