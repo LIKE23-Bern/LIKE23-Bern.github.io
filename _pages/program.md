@@ -420,7 +420,7 @@ header:
 		    <a href="https://jeanguella.wixsite.com/jeanguella" target="_blank">Jean Carlo Guella</a> 
 		</td>
 		<td> 
-		    Title TBA
+		    Hilbert space embeddings of independence tests in 2 and several variables
 	    </td>
 	</tr>
 </tbody>
