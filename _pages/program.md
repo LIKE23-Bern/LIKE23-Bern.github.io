@@ -257,7 +257,7 @@ header:
 		    <a href="https://zoltansz.github.io/" target="_blank">Zoltan Szabo</a> 
 		</td>
 		<td> 
-		   Title TBA
+		   Kernel Cumulant Embedding
 	    </td>
 	</tr>
   <tr class="coffee-break">
