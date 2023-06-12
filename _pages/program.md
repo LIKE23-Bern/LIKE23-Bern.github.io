@@ -302,7 +302,7 @@ header:
 		    <a href="https://sites.google.com/site/boumedienehamzi/" target="_blank">Boumediene Hamzi</a> 
 		</td>
 		<td> 
-		    TBA
+		    Kernel Flows and Kernel Mode Decomposition for Learning Dynamical Systems from Data
 	    </td>
 	</tr>
     <tr>
