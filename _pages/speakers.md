@@ -15,6 +15,7 @@ permalink: /speakers/
   * [Sarah Filippi](https://www.imperial.ac.uk/people/s.filippi) (Imperial College)
   * [Seth Flaxman](https://sethrf.com/) (University of Oxford)
   * [Jean Carlo Guella](https://jeanguella.wixsite.com/jeanguella) (Unicamp-IMECC)    
+  * [Boumediene Hamzi](https://sites.google.com/site/boumedienehamzi/) (Caltech and Turing Institute) 
   * [James Hensman](https://scholar.google.com/citations?user=l8dX3ssAAAAJ&hl=en) (Microsoft Research Cambridge) 
   * [Iain Henderson](https://iain-pl-henderson.github.io/i-henders/about) (INSA Toulouse) 
   * [Heishiro Kanagawa](https://noukoudashisoup.github.io/) (Newcastle University)
