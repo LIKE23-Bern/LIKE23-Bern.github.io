@@ -289,7 +289,7 @@ header:
 	    </td>
 	</tr>
   <tr class="coffee-break">
-		<td> 12:30-14:45  </td>
+		<td> 12:30-14:00  </td>
 		<td> 
 		    Lunch break
 		</td>
