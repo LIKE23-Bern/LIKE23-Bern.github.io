@@ -302,7 +302,7 @@ header:
 		    <a href="https://sites.google.com/view/darioazzimonti/home" target="_blank">Dario Azzimonti</a> 
 		</td>
 		<td> 
-		    Title TBA
+		    Gaussian processes for choice data
 	    </td>
 	</tr>
   <tr class="coffee-break">
