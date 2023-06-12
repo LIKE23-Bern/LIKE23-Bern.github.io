@@ -190,7 +190,7 @@ header:
 		    <a href="https://ensai.fr/en/equipe/da-veiga-sebastien/" target="_blank"> Sebastien Da Veiga </a> 
 		</td>
 		<td> 
-		   TBA
+		   Optimal maximum mean discrepancy quantization with clustering penalties on the sparse simplex
 	    </td>
 	</tr>
     <tr>
