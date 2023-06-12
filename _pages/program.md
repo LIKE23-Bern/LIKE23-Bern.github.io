@@ -27,10 +27,9 @@ header:
 		background-color: #dfe0e1;
 	}
 </style>
+ 
 
-# Schedule 
-
-# The first two days are a research school (some public recordings will follow)
+## The first two days are a research school (some public recordings will follow)
 
 ### Monday 26th June 2023
 
@@ -232,7 +231,7 @@ header:
 </tbody>
 </table>
 
-# The three last days are a workshop 
+## The three last days are a workshop 
 
 ### Wednesday 28th June 2023
 
