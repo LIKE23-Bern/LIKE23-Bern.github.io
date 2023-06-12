@@ -296,6 +296,15 @@ header:
 		<td> 
 		</td>
 	</tr>
+     <tr>
+		<td> 14:00-14:45 </td>
+		<td> 
+		    <a href="https://sites.google.com/site/boumedienehamzi/" target="_blank">Boumediene Hamzi</a> 
+		</td>
+		<td> 
+		    TBA
+	    </td>
+	</tr>
     <tr>
 		<td> 14:45-15:30 </td>
 		<td> 
