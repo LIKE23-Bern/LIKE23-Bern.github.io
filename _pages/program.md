@@ -285,7 +285,7 @@ header:
 		    <a href="https://iain-pl-henderson.github.io/i-henders/about" target="_blank">Iain Henderson</a>
 		</td>
 		<td> 
-		    Title TBA
+		    Physics-informed gaussian processes and kernels : some recent results
 	    </td>
 	</tr>
   <tr class="coffee-break">
