@@ -362,7 +362,7 @@ header:
 		    <a href="https://www.stat.ucdavis.edu/~polonik/WP-personal-home.html" target="_blank">Wolfgang Polonik</a>
 		</td>
 		<td> 
-		    Title TBA
+		    Inference in topological data analysis
 		</td>
 	</tr>
   <tr class="coffee-break">
