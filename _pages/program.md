@@ -250,7 +250,7 @@ header:
 		    <a href="http://www.tjsullivan.org.uk/" target="_blank">Tim Sullivan</a>
 		</td>
 		<td> 
-		    Title TBA
+		    Learning linear operators: Infinite-dimensional regression as a well-behaved non-compact inverse problem
 		</td>
 	</tr>
 	<tr>
