@@ -405,7 +405,7 @@ header:
 		    <a href="https://www.mikolajkasprzak.com/research" target="_blank">Mikolaj Kasprzak</a>
 		</td>
 		<td> 
-		    Title TBA
+		    A Fourier Representation of Kernel Stein Discrepancy with Application to Goodness-of-Fit Tests for Measures on Infinite Dimensional Hilbert Spaces
 	    </td>
 	</tr>
     <tr>
