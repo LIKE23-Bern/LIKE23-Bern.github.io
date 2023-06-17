@@ -402,7 +402,7 @@ header:
 		</td>
 	</tr>
     <tr>
-		<td> 13:15-14:00 </td>
+		<td> 13:30-14:15 </td>
 		<td> 
 		    <a href="https://www.mikolajkasprzak.com/research" target="_blank">Mikolaj Kasprzak</a>
 		</td>
@@ -411,7 +411,7 @@ header:
 	    </td>
 	</tr>
     <tr>
-		<td> 14:00-14:45 </td>
+		<td> 14:15-15:00 </td>
 		<td> 
 		    <a href="https://scholar.google.com/citations?user=KDhGvNQAAAAJ&hl=en" target="_blank">Johanna Ziegel</a> 
 		</td>
@@ -420,9 +420,9 @@ header:
 	    </td>
 	</tr>
   <tr class="coffee-break">
-		<td> 14:45-15:15  </td>
+		<td> 15:00-15:15  </td>
 		<td> 
-		    Coffee break
+		    Short break
 		</td>
 		<td> 
 		</td>
