@@ -171,7 +171,7 @@ header:
 	<tr>
 		<td> 11:30-12:00 </td>
 		<td> 
-		    Short talk (TBA)
+		  <a href="https://nfllmann.github.io/" target="_blank"> Noé Fellmann </a>  
 		</td>
 		<td> 
 	    </td>
