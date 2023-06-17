@@ -71,7 +71,7 @@ header:
     <tr>
 		<td> 11:45-12:15 </td>
 		<td> 
-		    <a href="https://www.researchgate.net/profile/Chifaa-Al-Dahik" target="_blank">Danica Sutherland</a>  
+		    <a href="https://www.researchgate.net/profile/Chifaa-Al-Dahik" target="_blank">Chifaa Al Dahik</a>  
 		</td>
 		<td> 
 	    </td>
