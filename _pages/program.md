@@ -69,9 +69,9 @@ header:
 	    </td>
 	</tr>
     <tr>
-		<td> 11:45-12:15'ish </td>
+		<td> 11:45-12:15 </td>
 		<td> 
-		    Short talk (TBA)
+		    <a href="https://www.researchgate.net/profile/Chifaa-Al-Dahik" target="_blank">Danica Sutherland</a>  
 		</td>
 		<td> 
 	    </td>
