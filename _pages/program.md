@@ -414,7 +414,7 @@ header:
 		    <a href="https://scholar.google.com/citations?user=KDhGvNQAAAAJ&hl=en" target="_blank">Johanna Ziegel</a> 
 		</td>
 		<td> 
-		   Title TBA
+		   Characteristic kernels on Hilbert spaces, Banach spaces, and on sets of measures
 	    </td>
 	</tr>
   <tr class="coffee-break">
