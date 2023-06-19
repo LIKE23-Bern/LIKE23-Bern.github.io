@@ -74,7 +74,7 @@ header:
 		    <a href="https://www.researchgate.net/profile/Chifaa-Al-Dahik" target="_blank">Chifaa Al Dahik</a>  
 		</td>
 		<td> 
-      TBA
+      Gaussian process prediction for a cyclone application using adapted kernels
 	    </td>
 	</tr>
   <tr class="coffee-break">
