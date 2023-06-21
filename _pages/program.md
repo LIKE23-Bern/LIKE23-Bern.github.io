@@ -42,6 +42,15 @@ header:
 	</tr>
 </thead>
 <tbody>
+  <tr class="coffee-break">
+		<td> 09:00-09:15  </td>
+		<td> 
+		    Welcome adress
+		</td>
+		<td> 
+      By the LIKE23 committee
+		</td>
+	</tr>
 	<tr>
 		<td> 09:15-10:30  </td>
 		<td> 
