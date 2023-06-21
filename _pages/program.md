@@ -42,13 +42,13 @@ header:
 	</tr>
 </thead>
 <tbody>
-  <tr class="coffee-break">
+  <tr>
 		<td> 09:00-09:15  </td>
 		<td> 
-		    Welcome adress
+		    LIKE23 committee
 		</td>
 		<td> 
-      By the LIKE23 committee
+      Welcome adress
 		</td>
 	</tr>
 	<tr>
