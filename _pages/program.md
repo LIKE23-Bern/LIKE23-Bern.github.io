@@ -466,7 +466,7 @@ header:
 		    <a href="https://www.ma.imperial.ac.uk/~aduncan/" target="_blank">Andrew Duncan</a>
 		</td>
 		<td> 
-		    Title TBA
+		    Kernel Based Testing in High Dimensions: Shedding some light on hyperparameter-induced Phase Transitions
 		</td>
 	</tr>
 	<tr>
