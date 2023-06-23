@@ -348,7 +348,7 @@ header:
 			<a href="http://www.infinitecuriosity.org/about/" target="_blank">Ti John</a> 
 		</td>
 		<td> 
-      Title TBA
+      Learning from the dual parameterization
 	    </td>
 	</tr>
 </tbody>
