@@ -48,7 +48,7 @@ header:
 		    LIKE23 committee
 		</td>
 		<td> 
-      Welcome adress
+      Welcome address
 		</td>
 	</tr>
 	<tr>
