@@ -184,7 +184,7 @@ header:
 		  <a href="https://nfllmann.github.io/" target="_blank"> Noé Fellmann </a>  
 		</td>
 		<td> 
-      TBA
+      Sensitivity analysis on (excursion) sets based on kernel embedding of random sets
 	    </td>
 	</tr>
   <tr class="coffee-break">
