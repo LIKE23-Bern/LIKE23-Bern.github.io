@@ -2,7 +2,6 @@
 layout: single
 title: ""
 description: "LIKE23's speakers"
-permalink: /speakers2/
 ---
 
 Current list of speakers (by order of appearance in the conference, or by alphabetical order, as you wish).
