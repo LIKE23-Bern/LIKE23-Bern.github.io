@@ -390,7 +390,7 @@ header:
 		    <a href="https://www.imperial.ac.uk/people/a.monod" target="_blank">Anthea Monod</a> 
 		</td>
 		<td> 
-		   Title TBA (online)
+		   Topological Gaussian Process Regression to Predict Clinical Outcome in GBM Patients (online)
 	    </td>
 	</tr>
 	<tr>
