@@ -84,7 +84,8 @@ header:
 		    <a href="https://www.researchgate.net/profile/Chifaa-Al-Dahik" target="_blank">Chifaa Al Dahik</a>  
 		</td>
 		<td> 
-      Gaussian process prediction for a cyclone application using adapted kernels
+      Gaussian process prediction for a cyclone application using adapted kernels<br />
+		   <br /> &#9719; Recording not available yet, please come back later. 
 	    </td>
 	</tr>
   <tr class="coffee-break">
@@ -101,7 +102,8 @@ header:
 		    <a href="https://djsutherland.ml/" target="_blank">Danica Sutherland</a> 
 		</td>
 		<td> 
-		   (Deep) Kernel Mean Embeddings for Representing and Learning On Distributions
+		   (Deep) Kernel Mean Embeddings for Representing and Learning On Distributions<br />
+		   <br /> &#9719; Recording not available yet, please come back later. 
 	    </td>
 	</tr>
     <tr>
@@ -110,7 +112,8 @@ header:
 		    <a href="https://georgewynne.github.io/" target="_blank"> George Wynne</a> 
 		</td>
 		<td> 
-		    Kernel mean embeddings meets functional data analysis
+		    Kernel mean embeddings meets functional data analysis<br />
+		   <br /> &#9719; Recording not available yet, please come back later. 
 	    </td>
 	</tr>
   <tr class="coffee-break">
@@ -126,7 +129,8 @@ header:
 		<td> 
 		    <a href="https://sites.google.com/site/mickaelbinoishomepage/" target="_blank">Mickaël Binois</a> 
 		</td>
-		<td> Kernels for high-dimensional Gaussian process modeling
+		<td> Kernels for high-dimensional Gaussian process modeling<br />
+		   <br /> &#9719; Recording not available yet, please come back later. 
 	    </td>
 	</tr>
     <tr>
@@ -159,7 +163,8 @@ header:
 		    <a href="https://www.elizaveta-semenova.com/" target="_blank">Elizaveta Semenova</a>
 		</td>
 		<td> 
-		    Emulating and aggregating GPs with PriorVAE and πVAE: deep generative models to enable scalable MCMC inference and define a novel stochastic process
+		    Emulating and aggregating GPs with PriorVAE and πVAE: deep generative models to enable scalable MCMC inference and define a novel stochastic process<br />
+		   <br /> &#9719; Recording not available yet, please come back later. 
 		</td>
 	</tr>
   <tr class="coffee-break">
@@ -176,7 +181,8 @@ header:
 		    <a href="https://henrymoss.github.io/" target="_blank"> Henry Moss </a>
 		</td>
 		<td> 
-		  Scalable Gaussian Processes when you don't just care about Regression
+		  Scalable Gaussian Processes when you don't just care about Regression<br />
+		   <br /> &#9719; Recording not available yet, please come back later. 
 		</td>
 	</tr>
 	<tr>
@@ -185,7 +191,8 @@ header:
 		  <a href="https://nfllmann.github.io/" target="_blank"> Noé Fellmann </a>  
 		</td>
 		<td> 
-      Sensitivity analysis on (excursion) sets based on kernel embedding of random sets
+      Sensitivity analysis on (excursion) sets based on kernel embedding of random sets<br />
+		   <br /> &#9719; Recording not available yet, please come back later. 
 	    </td>
 	</tr>
   <tr class="coffee-break">
@@ -202,7 +209,8 @@ header:
 		    <a href="https://ensai.fr/en/equipe/da-veiga-sebastien/" target="_blank"> Sebastien Da Veiga </a> 
 		</td>
 		<td> 
-		   Optimal maximum mean discrepancy quantization with clustering penalties on the sparse simplex
+		   Optimal maximum mean discrepancy quantization with clustering penalties on the sparse simplex<br />
+		   <br /> &#9719; Recording not available yet, please come back later. 
 	    </td>
 	</tr>
     <tr>
@@ -227,7 +235,8 @@ header:
 		    <a href="https://sites.google.com/site/nicolasdurrandehomepage/" target="_blank"> Nicolas Durrande </a> 
 		</td>
 		<td> 
-		    Gaussian Process Ensembles and the Bayesian Committee Machine 
+		    Gaussian Process Ensembles and the Bayesian Committee Machine <br />
+		   <br /> &#9719; Recording not available yet, please come back later. 
 	    </td>
 	</tr>
     <tr>
@@ -237,7 +246,8 @@ header:
       and <a href="https://avt.im/" target="_blank">Alexander Terenin</a>
 		</td>
 		<td>
-	        Geometric Gaussian Processes
+	        Geometric Gaussian Processes<br />
+		   <br /> &#9719; Recording not available yet, please come back later. 
 	    </td>
 	</tr>
 </tbody>
