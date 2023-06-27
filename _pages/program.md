@@ -57,7 +57,8 @@ header:
 		    <a href="https://scholar.google.com/citations?user=l8dX3ssAAAAJ&hl=en" target="_blank">James Hensman</a>
 		</td>
 		<td> 
-		    Two tales of orthogonality
+		    Two tales of orthogonality<br />
+		   <br /> &#9719; Recording not available yet, please come back later. 
 		</td>
 	</tr>
   <tr class="coffee-break">
