@@ -75,7 +75,8 @@ header:
 		    <a href="https://www.imperial.ac.uk/people/s.filippi" target="_blank">Sarah Filippi</a> 
 		</td>
 		<td> 
-		   Bayesian Nonparametric Mixture Model: an application to pharmaceutical manufacturing
+		   Bayesian Nonparametric Mixture Model: an application to pharmaceutical manufacturing<br />
+		    <br /> &#9746; This talk was not recorded.
 	    </td>
 	</tr>
     <tr>
