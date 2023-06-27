@@ -249,7 +249,8 @@ header:
 		</td>
 		<td>
 	        Geometric Gaussian Processes<br />
-		   <br /> &#9719; Recording not available yet, please come back later. 
+		   <br /> &#9719; Recording not available yet, please come back later.<br />
+		    <a href="https://vab.im/download/2023-06-27-Geometric-Gaussian-Processes">Access the slides</a>     
 	    </td>
 	</tr>
 </tbody>
