@@ -161,7 +161,7 @@ header:
 	<tr>
 		<td> 09:00-10:15  </td>
 		<td> 
-        <a href="https://sethrf.com/" target="_blank">Seth Flaxman</a> and 
+        <a href="https://sethrf.com/" target="_blank">Seth Flaxman</a> & <br />
 		    <a href="https://www.elizaveta-semenova.com/" target="_blank">Elizaveta Semenova</a>
 		</td>
 		<td> 
@@ -245,7 +245,7 @@ header:
 		<td> 16:45-17:45 </td>
 		<td> 
 		    <a href="https://vab.im/" target="_blank">Viacheslav Borovitskiy</a>
-      and <a href="https://avt.im/" target="_blank">Alexander Terenin</a>
+      & <br /> <a href="https://avt.im/" target="_blank">Alexander Terenin</a>
 		</td>
 		<td>
 	        Geometric Gaussian Processes<br />
