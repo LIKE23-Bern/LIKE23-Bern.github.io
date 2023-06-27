@@ -105,6 +105,7 @@ header:
 		<td> 
 		   (Deep) Kernel Mean Embeddings for Representing and Learning On Distributions<br />
 		   <br /> &#9719; Recording not available yet, please come back later. 
+		    <a href="https://djsutherland.ml/slides/like23/#/">Access the slides</a>
 	    </td>
 	</tr>
     <tr>
