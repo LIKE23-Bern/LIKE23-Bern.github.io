@@ -212,7 +212,8 @@ header:
 		</td>
 		<td> 
 		   Optimal maximum mean discrepancy quantization with clustering penalties on the sparse simplex<br />
-		   <br /> &#9719; Recording not available yet, please come back later. 
+		   <br /> &#9719; Recording not available yet, please come back later. <br />
+		    <a href="https://like23-bern.github.io/assets/slides/QuantizationMMD_DaVeiga_LIKE2023.pdf">Download the slides</a>
 	    </td>
 	</tr>
     <tr>
