@@ -285,7 +285,8 @@ header:
 		    <a href="https://zoltansz.github.io/" target="_blank">Zoltan Szabo</a> 
 		</td>
 		<td> 
-		   Kernel Cumulant Embedding
+		   Kernel Cumulant Embedding<br />
+		    <a href="https://like23-bern.github.io/assets/slides/2023_06_28_Zoltan_Szabo_invited_talk_LIKE23.pdf">Download the slides</a>
 	    </td>
 	</tr>
   <tr class="coffee-break">
