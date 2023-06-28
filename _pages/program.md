@@ -105,7 +105,7 @@ header:
 		<td> 
 		   (Deep) Kernel Mean Embeddings for Representing and Learning On Distributions<br />
 		   <br /> &#9719; Recording not available yet, please come back later. <br />
-		    <a href="https://djsutherland.ml/slides/like23.pdf">Download the slides</a>
+		    <a href="https://djsutherland.ml/slides/like23.pdf">Access the slides</a>
 	    </td>
 	</tr>
     <tr>
@@ -213,7 +213,7 @@ header:
 		<td> 
 		   Optimal maximum mean discrepancy quantization with clustering penalties on the sparse simplex<br />
 		   <br /> &#9719; Recording not available yet, please come back later. <br />
-		    <a href="https://like23-bern.github.io/assets/slides/QuantizationMMD_DaVeiga_LIKE2023.pdf">Download the slides</a>
+		    <a href="https://like23-bern.github.io/assets/slides/QuantizationMMD_DaVeiga_LIKE2023.pdf">Access the slides</a>
 	    </td>
 	</tr>
     <tr>
@@ -286,7 +286,7 @@ header:
 		</td>
 		<td> 
 		   Kernel Cumulant Embedding<br />
-		    <a href="https://like23-bern.github.io/assets/slides/2023_06_28_Zoltan_Szabo_invited_talk_LIKE23.pdf">Download the slides</a>
+		    <a href="https://like23-bern.github.io/assets/slides/2023_06_28_Zoltan_Szabo_invited_talk_LIKE23.pdf">Access the slides</a>
 	    </td>
 	</tr>
   <tr class="coffee-break">
