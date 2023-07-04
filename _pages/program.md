@@ -87,8 +87,10 @@ header:
 		</td>
 		<td> 
       Gaussian process prediction for a cyclone application using adapted kernels<br />
-		   <br /> &#9719; Recording not available yet, please come back later. 
-	    </td>
+		    <br><details> <br> <summary> Click here to expand and see the recording. </summary><br> 
+		    <iframe name="Tobira Player" src="https://tobira.unibe.ch/~embed/!v/PEJoCoHlI9x" allow=fullscreen style="border: none; width: 100%; aspect-ratio: 16/9;"></iframe>
+		    <br></details>  
+		</td>
 	</tr>
   <tr class="coffee-break">
 		<td> 12:15-13:30  </td>
