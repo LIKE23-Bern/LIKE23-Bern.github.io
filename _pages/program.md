@@ -220,16 +220,18 @@ header:
 		<td> 
 		</td>
 	</tr>
-  <tr>
+   <tr>
 		<td> 13:30-14:45 </td>
 		<td> 
 		    <a href="https://ensai.fr/en/equipe/da-veiga-sebastien/" target="_blank"> Sebastien Da Veiga </a> 
 		</td>
 		<td> 
 		   Optimal maximum mean discrepancy quantization with clustering penalties on the sparse simplex<br />
-		   <br /> &#9719; Recording not available yet, please come back later. <br />
-		    <a href="https://like23-bern.github.io/assets/slides/QuantizationMMD_DaVeiga_LIKE2023.pdf">Access the slides</a>
-	    </td>
+		    <br><details> <br> <summary> Click here to expand and see the recording. </summary><br> 
+		    <iframe name="Tobira Player" src="https://tobira.unibe.ch/~embed/!v/KSTDV-LwalX" allow=fullscreen style="border: none; width: 100%; aspect-ratio: 16/9;"></iframe>
+		    <br></details>  
+      <a href="https://like23-bern.github.io/assets/slides/QuantizationMMD_DaVeiga_LIKE2023.pdf">Access the slides</a>
+		</td>
 	</tr>
     <tr>
 		<td> 14:45-15:15 </td>
@@ -254,8 +256,10 @@ header:
 		</td>
 		<td> 
 		    Gaussian Process Ensembles and the Bayesian Committee Machine <br />
-		   <br /> &#9719; Recording not available yet, please come back later. 
-	    </td>
+		    <br><details> <br> <summary> Click here to expand and see the recording. </summary><br> 
+		    <iframe name="Tobira Player" src="https://tobira.unibe.ch/~embed/!v/G6M1AlmecCW" allow=fullscreen style="border: none; width: 100%; aspect-ratio: 16/9;"></iframe>
+		    <br></details>  
+		</td>
 	</tr>
     <tr>
 		<td> 16:45-17:45 </td>
@@ -265,9 +269,10 @@ header:
 		</td>
 		<td>
 	        Geometric Gaussian Processes<br />
-		   <br /> &#9719; Recording not available yet, please come back later.<br />
-		    <a href="https://vab.im/download/2023-06-27-Geometric-Gaussian-Processes">Access the slides</a>     
-	    </td>
+		    <br><details> <br> <summary> Click here to expand and see the recording. </summary><br> 
+		    <iframe name="Tobira Player" src="https://tobira.unibe.ch/~embed/!v/Db9rME39lYF" allow=fullscreen style="border: none; width: 100%; aspect-ratio: 16/9;"></iframe>
+		    <br></details>  
+		</td>
 	</tr>
 </tbody>
 </table>
