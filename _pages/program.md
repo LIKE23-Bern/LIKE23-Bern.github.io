@@ -340,8 +340,10 @@ header:
 		    <a href="https://sites.google.com/view/darioazzimonti/home" target="_blank">Dario Azzimonti</a> 
 		</td>
 		<td> 
-		    Gaussian processes for choice data
-	    </td>
+		    Gaussian processes for choice data<br />
+		   <br /> 
+		    <a href="https://like23-bern.github.io/assets/slides/Azzimonti_noAppendix.pdf">Access the slides</a>
+	  </td>
 	</tr>
   <tr class="coffee-break">
 		<td> 15:30-16:00  </td>
