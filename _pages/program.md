@@ -32,7 +32,6 @@ header:
 ## The first two days are a research school (some public recordings will follow)
 
 ### Monday 26th June 2023
-
 <table>
 <thead>
 	<tr>
@@ -58,10 +57,11 @@ header:
 		</td>
 		<td> 
 		    Two tales of orthogonality<br />
-      <br><details> <br> <summary> Click here to expand and see the recording. </summary><br> 
-        <iframe name="Tobira Player" src="https://tobira.unibe.ch/~embed/!v/HjSmUWiwrYX" allow=fullscreen style="border: none; width: 100%; aspect-ratio: 16/9;"></iframe> <br></details> 
-    </td>
-  </tr>
+		    <br><details> <br> <summary> Click here to expand and see the recording. </summary><br> 
+		    <iframe name="Tobira Player" src="https://tobira.unibe.ch/~embed/!v/HjSmUWiwrYX" allow=fullscreen style="border: none; width: 100%; aspect-ratio: 16/9;"></iframe>
+		    <br></details>  
+		</td>
+	</tr>
   <tr class="coffee-break">
 		<td> 10:30-11:00  </td>
 		<td> 
@@ -87,12 +87,11 @@ header:
 		</td>
 		<td> 
       Gaussian process prediction for a cyclone application using adapted kernels<br />
-      <br><details> <br> <summary> Click here to expand and see the recording. </summary><br> 
-        <iframe name="Tobira Player" src="https://tobira.unibe.ch/~embed/!v/PEJoCoHlI9x" allow=fullscreen style="border: none; width: 100%; aspect-ratio: 16/9;"></iframe>
-      </td>
-  </tr>
+		   <br /> &#9719; Recording not available yet, please come back later. 
+	    </td>
+	</tr>
   <tr class="coffee-break">
-		<td> 12:15-13:45  </td>
+		<td> 12:15-13:30  </td>
 		<td> 
 		    Lunch break
 		</td>
@@ -106,8 +105,7 @@ header:
 		</td>
 		<td> 
 		   (Deep) Kernel Mean Embeddings for Representing and Learning On Distributions<br />
-		    <br><details> <br> <summary> Click here to expand and see the recording. </summary><br> 
-		    <iframe name="Tobira Player" src="https://tobira.unibe.ch/~embed/!v/ND6ukyThLls" allow=fullscreen style="border: none; width: 100%; aspect-ratio: 16/9;"></iframe> <br />
+		   <br /> &#9719; Recording not available yet, please come back later. <br />
 		    <a href="https://djsutherland.ml/slides/like23.pdf">Access the slides</a>
 	    </td>
 	</tr>
@@ -118,8 +116,7 @@ header:
 		</td>
 		<td> 
 		    Kernel mean embeddings meets functional data analysis<br />
-		    <br><details> <br> <summary> Click here to expand and see the recording. </summary><br> 
-		    <iframe name="Tobira Player" src="https://tobira.unibe.ch/~embed/!v/D2qkhK2oUTY" allow=fullscreen style="border: none; width: 100%; aspect-ratio: 16/9;"></iframe>
+		   <br /> &#9719; Recording not available yet, please come back later. 
 	    </td>
 	</tr>
   <tr class="coffee-break">
@@ -136,8 +133,7 @@ header:
 		    <a href="https://sites.google.com/site/mickaelbinoishomepage/" target="_blank">Mickaël Binois</a> 
 		</td>
 		<td> Kernels for high-dimensional Gaussian process modeling<br />
-		    <br><details> <br> <summary> Click here to expand and see the recording. </summary><br> 
-		    <iframe name="Tobira Player" src="https://tobira.unibe.ch/~embed/!v/AfqIx6hb9c6" allow=fullscreen style="border: none; width: 100%; aspect-ratio: 16/9;"></iframe>
+		   <br /> &#9719; Recording not available yet, please come back later. 
 	    </td>
 	</tr>
     <tr>
