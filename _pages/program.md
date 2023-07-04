@@ -139,8 +139,10 @@ header:
 		    <a href="https://sites.google.com/site/mickaelbinoishomepage/" target="_blank">Mickaël Binois</a> 
 		</td>
 		<td> Kernels for high-dimensional Gaussian process modeling<br />
-		   <br /> &#9719; Recording not available yet, please come back later. 
-	    </td>
+		    <br><details> <br> <summary> Click here to expand and see the recording. </summary><br> 
+		    <iframe name="Tobira Player" src="https://tobira.unibe.ch/~embed/!v/AfqIx6hb9c6" allow=fullscreen style="border: none; width: 100%; aspect-ratio: 16/9;"></iframe>
+		    <br></details>  
+		</td>
 	</tr>
     <tr>
 		<td> 17:00-17:30 </td>
@@ -173,7 +175,9 @@ header:
 		</td>
 		<td> 
 		    Emulating and aggregating GPs with PriorVAE and πVAE: deep generative models to enable scalable MCMC inference and define a novel stochastic process<br />
-		   <br /> &#9719; Recording not available yet, please come back later. 
+		    <br><details> <br> <summary> Click here to expand and see the recording. </summary><br> 
+		    <iframe name="Tobira Player" src="https://tobira.unibe.ch/~embed/!v/HR1USrOVRgw" allow=fullscreen style="border: none; width: 100%; aspect-ratio: 854/480;"></iframe>
+		    <br></details>  
 		</td>
 	</tr>
   <tr class="coffee-break">
@@ -191,7 +195,9 @@ header:
 		</td>
 		<td> 
 		  Scalable Gaussian Processes when you don't just care about Regression<br />
-		   <br /> &#9719; Recording not available yet, please come back later. 
+		    <br><details> <br> <summary> Click here to expand and see the recording. </summary><br> 
+		    <iframe name="Tobira Player" src="https://tobira.unibe.ch/~embed/!v/OvSUwiZGOm3" allow=fullscreen style="border: none; width: 100%; aspect-ratio: 16/9;"></iframe>
+		    <br></details>  
 		</td>
 	</tr>
 	<tr>
@@ -201,8 +207,10 @@ header:
 		</td>
 		<td> 
       Sensitivity analysis on (excursion) sets based on kernel embedding of random sets<br />
-		   <br /> &#9719; Recording not available yet, please come back later. 
-	    </td>
+		    <br><details> <br> <summary> Click here to expand and see the recording. </summary><br> 
+		    <iframe name="Tobira Player" src="https://tobira.unibe.ch/~embed/!v/GaVYvkIdXhT" allow=fullscreen style="border: none; width: 100%; aspect-ratio: 16/9;"></iframe>
+		    <br></details>  
+		</td>
 	</tr>
   <tr class="coffee-break">
 		<td> 12:00-13:30  </td>
