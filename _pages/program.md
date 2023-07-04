@@ -58,11 +58,10 @@ header:
 		</td>
 		<td> 
 		    Two tales of orthogonality<br />
-		    <br><details> <br> <summary> Click here to expand and see the recording. </summary><br> 
-		    <iframe name="Tobira Player" src="https://tobira.unibe.ch/~embed/!v/HjSmUWiwrYX" allow=fullscreen style="border: none; width: 100%; aspect-ratio: 16/9;"></iframe>
-		    <br></details>  
-		</td>
-	</tr>
+      <br><details> <br> <summary> Click here to expand and see the recording. </summary><br> 
+        <iframe name="Tobira Player" src="https://tobira.unibe.ch/~embed/!v/HjSmUWiwrYX" allow=fullscreen style="border: none; width: 100%; aspect-ratio: 16/9;"></iframe> <br></details> 
+    </td>
+  </tr>
   <tr class="coffee-break">
 		<td> 10:30-11:00  </td>
 		<td> 
@@ -88,10 +87,10 @@ header:
 		</td>
 		<td> 
       Gaussian process prediction for a cyclone application using adapted kernels<br />
-		    <br><details> <br> <summary> Click here to expand and see the recording. </summary><br> 
-		    <iframe name="Tobira Player" src="https://tobira.unibe.ch/~embed/!v/PEJoCoHlI9x" allow=fullscreen style="border: none; width: 100%; aspect-ratio: 16/9;"></iframe>
-	    </td>
-	</tr>
+      <br><details> <br> <summary> Click here to expand and see the recording. </summary><br> 
+        <iframe name="Tobira Player" src="https://tobira.unibe.ch/~embed/!v/PEJoCoHlI9x" allow=fullscreen style="border: none; width: 100%; aspect-ratio: 16/9;"></iframe>
+      </td>
+  </tr>
   <tr class="coffee-break">
 		<td> 12:15-13:45  </td>
 		<td> 
