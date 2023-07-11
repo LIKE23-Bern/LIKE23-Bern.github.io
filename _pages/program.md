@@ -360,7 +360,6 @@ header:
 		</td>
 		<td> 
 		    Gaussian processes for choice data<br />
-		   <br /> 
 		    <a href="https://like23-bern.github.io/assets/slides/Azzimonti_noAppendix.pdf">Access the slides</a>
 	  </td>
 	</tr>
@@ -378,7 +377,8 @@ header:
 		    <a href="https://noukoudashisoup.github.io/" target="_blank">Heishiro Kanagawa</a> 
 		</td>
 		<td> 
-		    Controlling moments with kernel Stein discrepancies
+		    Controlling moments with kernel Stein discrepancies<br />
+		    <a href="https://like23-bern.github.io/assets/slides/like23_HK.pdf.pdf">Access the slides</a>
 	    </td>
 	</tr>
     <tr>
@@ -387,7 +387,8 @@ header:
 			<a href="http://www.infinitecuriosity.org/about/" target="_blank">Ti John</a> 
 		</td>
 		<td> 
-      Learning from the dual parameterization
+      Learning from the dual parameterization<br />
+		    <a href="https://like23-bern.github.io/assets/slides/slides-like23_Ti.pdf">Access the slides</a>
 	    </td>
 	</tr>
 </tbody>
