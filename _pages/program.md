@@ -482,7 +482,8 @@ header:
 		    <a href="https://jeanguella.wixsite.com/jeanguella" target="_blank">Jean Carlo Guella</a> 
 		</td>
 		<td> 
-		    Hilbert space embeddings of independence tests in 2 and several variables
+		    Hilbert space embeddings of independence tests in 2 and several variables<br />
+		    <a href="https://like23-bern.github.io/assets/slides/2023 Hilbert space embeddings of independence tests.pdf">Access the slides</a>
 	    </td>
 	</tr>
 </tbody>
