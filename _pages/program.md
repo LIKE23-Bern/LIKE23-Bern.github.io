@@ -296,7 +296,8 @@ header:
 		    <a href="http://www.tjsullivan.org.uk/" target="_blank">Tim Sullivan</a>
 		</td>
 		<td> 
-		    Learning linear operators: Infinite-dimensional regression as a well-behaved non-compact inverse problem
+		    Learning linear operators: Infinite-dimensional regression as a well-behaved non-compact inverse problem<br />
+		    <a href="https://like23-bern.github.io/assets/slides/2023-06-28_Operator_Regression.pdf">Access the slides</a>
 		</td>
 	</tr>
 	<tr>
