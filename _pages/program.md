@@ -29,7 +29,7 @@ header:
 </style>
  
 
-## The first two days are a research school (some public recordings will follow)
+## The first two days are a research school 
 
 ### Monday 26th June 2023
 <table>
