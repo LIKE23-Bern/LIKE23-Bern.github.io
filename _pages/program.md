@@ -548,7 +548,8 @@ header:
 		    <a href="https://djsutherland.ml/" target="_blank">Danica Sutherland</a>
 		</td>
 		<td> 
-		    Conditional Independence Regularizers with Kernel Embeddings
+		    Conditional Independence Regularizers with Kernel Embeddings <br />
+		    <a href="https://like23-bern.github.io/assets/slides/circe-like23.pdf">Access the slides</a
 	    </td>
 	</tr>
 </tbody>
