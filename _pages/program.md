@@ -259,7 +259,6 @@ header:
 		    <br><details> <br> <summary> Click here to expand and see the recording. </summary><br> 
 		    <iframe name="Tobira Player" src="https://tobira.unibe.ch/~embed/!v/G6M1AlmecCW" allow=fullscreen style="border: none; width: 100%; aspect-ratio: 16/9;"></iframe>
 		    <br></details>  
-      <a href="https://vab.im/download/2023-06-27-Geometric-Gaussian-Processes.html">Access the slides</a>
 		</td>
 	</tr>
     <tr>
@@ -273,6 +272,7 @@ header:
 		    <br><details> <br> <summary> Click here to expand and see the recording. </summary><br> 
 		    <iframe name="Tobira Player" src="https://tobira.unibe.ch/~embed/!v/Db9rME39lYF" allow=fullscreen style="border: none; width: 100%; aspect-ratio: 16/9;"></iframe>
 		    <br></details>  
+      <a href="https://vab.im/download/2023-06-27-Geometric-Gaussian-Processes.html">Access the slides</a>
 		</td>
 	</tr>
 </tbody>
