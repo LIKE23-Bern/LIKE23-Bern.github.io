@@ -32,8 +32,7 @@ permalink: /committees/
 
   * [Sam Allen](https://www.imsv.unibe.ch/about_us/staff/dr_allen_sam/index_eng.html) (University of Bern)
   * [Thomas Blümli](https://www.imsv.unibe.ch/ueber_uns/personen/bluemli_thomas/index_ger.html) (University of Bern)  
-  * [Antoine Faul](https://www.imsv.unibe.ch/about_us/staff/faul_antoine_lo/index_eng.html) (University of Bern)  
-  * [Lea Friedli](https://www.researchgate.net/profile/Lea-Friedli-2) (University of Lausanne)    
+  * [Antoine Faul](https://www.imsv.unibe.ch/about_us/staff/faul_antoine_lo/index_eng.html) (University of Bern)   
   * [Athénaïs Gautier](https://athenaisgautier.github.io/) (University of Bern)  
   * [David Ginsbourger](http://www.ginsbourger.ch/) (**Chair**, University of Bern)  
   * [Lorenz Hilfiker](https://www.imsv.unibe.ch/about_us/staff/dr_hilfiker_lorenz_damian/index_eng.html) (University of Bern)  
