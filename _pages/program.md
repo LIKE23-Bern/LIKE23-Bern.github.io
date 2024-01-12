@@ -334,7 +334,8 @@ header:
 		    <a href="https://iain-pl-henderson.github.io/i-henders/about" target="_blank">Iain Henderson</a>
 		</td>
 		<td> 
-		    Physics-informed gaussian processes and kernels : some recent results
+		    Physics-informed gaussian processes and kernels : some recent results<br />
+		    <a href="https://like23-bern.github.io/assets/slides/like23_IH.pdf">Access the slides</a>
 	    </td>
 	</tr>
   <tr class="coffee-break">
@@ -351,7 +352,8 @@ header:
 		    <a href="https://sites.google.com/site/boumedienehamzi/" target="_blank">Boumediene Hamzi</a> 
 		</td>
 		<td> 
-		    Kernel Flows and Kernel Mode Decomposition for Learning Dynamical Systems from Data
+		    Kernel Flows and Kernel Mode Decomposition for Learning Dynamical Systems from Data<br />
+		    <a href="https://like23-bern.github.io/assets/slides/slides_like_2023_BH.pdf">Access the slides</a>
 	    </td>
 	</tr>
     <tr>
@@ -414,7 +416,8 @@ header:
 		    <a href="https://www.stat.ucdavis.edu/~polonik/WP-personal-home.html" target="_blank">Wolfgang Polonik</a>
 		</td>
 		<td> 
-		    Inference in topological data analysis
+		    Inference in topological data analysis<br />
+		    <a href="https://like23-bern.github.io/assets/slides/Talk-LIKE23-Wolfgang.pdf">Access the slides</a>
 		</td>
 	</tr>
   <tr class="coffee-break">
@@ -440,7 +443,8 @@ header:
 		    <a href="https://bastian.rieck.me/" target="_blank">Bastian Rieck</a> 
 		</td>
 		<td> 
-		  A Primer on Multi-Scale Topological Kernels
+		  A Primer on Multi-Scale Topological Kernels<br />
+		    <a href="https://like23-bern.github.io/assets/slides/Slides_LIKE23_BR.pdf">Access the slides</a>
 	    </td>
 	</tr>
   <tr class="coffee-break">
@@ -457,7 +461,8 @@ header:
 		    <a href="https://www.mikolajkasprzak.com/research" target="_blank">Mikolaj Kasprzak</a>
 		</td>
 		<td> 
-		    A Fourier Representation of Kernel Stein Discrepancy with Application to Goodness-of-Fit Tests for Measures on Infinite Dimensional Hilbert Spaces
+		    A Fourier Representation of Kernel Stein Discrepancy with Application to Goodness-of-Fit Tests for Measures on Infinite Dimensional Hilbert Spaces<br />
+		    <a href="https://like23-bern.github.io/assets/slides/presentation_bern_MK.pdf">Access the slides</a>
 	    </td>
 	</tr>
     <tr>
