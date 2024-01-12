@@ -324,7 +324,8 @@ header:
 		    <a href="https://olivier-roustant.fr/" target="_blank">Olivier Roustant</a> 
 		</td>
 		<td> 
-    High-dimensional additive Gaussian process under monotonicity constraints
+    High-dimensional additive Gaussian process under monotonicity constraints<br />
+		    <a href="https://like23-bern.github.io/assets/slides/constrAdditiveGPs_LIKE23.pdf">Access the slides</a>
 	    </td>
 	</tr>
     <tr>
