@@ -550,7 +550,7 @@ header:
 		</td>
 		<td> 
 		    Conditional Independence Regularizers with Kernel Embeddings <br />
-		    <a href="https://like23-bern.github.io/assets/slides/circe-like23.pdf">Access the slides</a
+		    <a href="https://like23-bern.github.io/assets/slides/circe-like23.pdf">Access the slides</a>
 	    </td>
 	</tr>
 </tbody>
